@@ -54,11 +54,11 @@ i18n
       fr: {
         translation: {
           quaesta: "Quaesta",
-          title: "Pas seulement un marché régulier",
+          title: "Ce n'est pas juste des petites annonces",
           donwload:"DOWNLOAD",
           about:"De quoi s'agit-il?",
           lost:"Publier vos objets perdus et trouvés",
-          hobby:"Besoin d'un compagnon pour votre passe-temps? Postez-le!",
+          hobby:"Besoin d'un ami pour votre passe-temps? Postez-le!",
           sideJob:"Disponible pour un travail d'appoint ou avez-vous besoin de quelqu'un pour tondre votre pelouse? Postez-le!",
           rent:"Louer, acheter, vendre ou échanger",
           barter:"Faites don de vos affaires ou faites du troc",
