@@ -31,7 +31,8 @@ i18n
           advices:"Ask or give advices and recommendations in a certain community",
           whoFor:"Great for local residents, for expats and tourists!",
           alert:" Share your stolen things and alert people",
-          copyright:"Copyright"
+          copyright:"Copyright",
+          ios: "Soon for ios"
         }
       },
       hr: {
@@ -48,7 +49,8 @@ i18n
           advices:"Pitajte ili dajte savjete i preporuke u lokalnoj zajednici",
           whoFor:"Izvrsna aplikacija za lokalno stanovništvo, posjetitelje i turiste!",
           alert:" Objavite ako vam je nešto ukradeno i upozorite ljude",
-          copyright:"Copyright"
+          copyright:"Copyright",
+          ios: "Uskoro za ios"
         }
       },
       fr: {
@@ -65,7 +67,8 @@ i18n
           advices:"Demandez ou donnez des conseils et des recommandations autour de vous",
           whoFor:"Idéal pour les locaux, pour les expatriés et les touristes !",
           alert:"Faites part de vos objets volés et alertez les gens",
-          copyright:"Copyright"
+          copyright:"Copyright",
+          ios:"Bientôt pour ios"
         }
       },
       it: {
@@ -82,7 +85,8 @@ i18n
           advices:"Chiedi o dai consigli e raccomandazioni in una determinata comunità",
           whoFor:"Ottimo per residenti locali, per espatriati e turisti!",
           alert:" Condividi le tue cose rubate e allerta le persone",
-          copyright:"Copyright"
+          copyright:"Copyright",
+          ios: "Presto per ios"
         }
       },
       es: {
@@ -99,7 +103,8 @@ i18n
           advices:"Pregunta o da consejos y recomendaciones en una determinada comunidad",
           whoFor:"Excelente para residentes locales, expatriados y turistas!",
           alert:" Comparte tus cosas robadas y alerta a las personas.",
-          copyright:"Copyright"
+          copyright:"Copyright",
+          ios:"Pronto para iOS"
         }
       },
       de: {
@@ -116,7 +121,8 @@ i18n
           advices:"Fragen oder geben Sie Ratschläge und Empfehlungen in einer lokalen Gemeinschaft!",
           whoFor:"Großartig für Einheimische, für Expats und Touristen!",
           alert:" Teilen Sie Ihre gestohlenen Sachen und alarmieren Sie die Leute",
-          copyright:"Copyright"
+          copyright:"Copyright",
+          ios: "Bald für iOS"
         }
       },
     }

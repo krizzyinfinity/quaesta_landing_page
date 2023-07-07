@@ -119,10 +119,11 @@ behavior:"smooth"
               </Box>
             </Grid>
             <Grid item>
+             
               {" "}
               <Box
                 sx={{
-                  backgroundColor: "black",
+                  //backgroundColor: "black",
                   borderRadius: 3,
                   display: "flex",
 
@@ -132,9 +133,10 @@ behavior:"smooth"
                   width: 230,
                 }}
               >
-                <Button style={styles.bttn}>{t("download")}</Button>
-                <img src={Image2} alt="logo" width={40} height={40} />
-              </Box>
+                 <Typography variant="h5"> {t("ios")}</Typography>
+                {/* <Button style={styles.bttn}>{t("download")}</Button>
+                <img src={Image2} alt="logo" width={40} height={40} /> */}
+              </Box> 
             </Grid>
           </Grid>
         </Box>
