@@ -133,7 +133,7 @@ behavior:"smooth"
                   width: 230,
                 }}
               >
-                 <Typography variant="h5"> {t("ios")}</Typography>
+                 <Typography style={{fontWeight:"bold"}} variant="h5"> {t("ios")}</Typography>
                 {/* <Button style={styles.bttn}>{t("download")}</Button>
                 <img src={Image2} alt="logo" width={40} height={40} /> */}
               </Box> 
