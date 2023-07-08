@@ -114,7 +114,8 @@ behavior:"smooth"
                   width: 230,
                 }}
               >
-                <Button style={styles.bttn}>{t("download")}</Button>
+                <Link href="https://play.google.com/store/apps/details?id=com.krizzy.quaestaapp">
+                <Button  style={styles.bttn}>{t("download")}</Button></Link>
                 <img src={Image} alt="logo" width={40} height={40} />
               </Box>
             </Grid>
