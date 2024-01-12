@@ -124,7 +124,7 @@ behavior:"smooth"
               {" "}
               <Box
                 sx={{
-                  //backgroundColor: "black",
+                  backgroundColor: "black",
                   borderRadius: 3,
                   display: "flex",
 
@@ -134,9 +134,9 @@ behavior:"smooth"
                   width: 230,
                 }}
               >
-                 <Typography style={{fontWeight:"bold"}} variant="h5"> {t("ios")}</Typography>
-                {/* <Button style={styles.bttn}>{t("download")}</Button>
-                <img src={Image2} alt="logo" width={40} height={40} /> */}
+                 <Link href="https://apps.apple.com/pl/app/quaesta/id6449774352">
+                <Button style={styles.bttn}>{t("download")}</Button></Link>
+                <img src={Image2} alt="logo" width={40} height={40} />
               </Box> 
             </Grid>
           </Grid>
